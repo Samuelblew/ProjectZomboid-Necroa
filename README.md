@@ -54,8 +54,8 @@ Contribuições são bem-vindas! Para sugerir melhorias ou reportar bugs, abra u
 
 Autor
 -----
-Desenvolvido por SeuNomeAqui  
-Contato: seuemail@exemplo.com
+Desenvolvido por Samuel Rodrigues/SamuelBlew 
+Contato: flamejantedinosauro@gmail.com
 
 Licença
 -------
