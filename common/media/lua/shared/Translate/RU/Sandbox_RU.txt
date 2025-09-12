@@ -1,0 +1,10 @@
+Sandbox_RU = {
+	Sandbox_Susceptible = "Восприимчивый",
+	Sandbox_Susceptible_EveryoneIsSusceptible = "Все восприимчивы",
+	Sandbox_Susceptible_InstantDeath = "Мгновенная смертельная инфекция",
+	Sandbox_Susceptible_BaseInfectionChance = "Базовый шанс заражения",
+	Sandbox_Susceptible_MaskDamageRate = "Скорость износа маски",
+	Sandbox_Susceptible_MaskFilteringPower = "Сила фильтрации маски",
+	Sandbox_Susceptible_SusceptibleSpawnChance = "Шанс появления зомби в маске",
+	Sandbox_Susceptible_SusceptibleLootChance =  "Шанс найти маски у зомби в масках",
+}

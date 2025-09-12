@@ -1,0 +1,271 @@
+module FZ3 {
+	imports { 
+		Base 
+	}
+	item FZ3
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed3,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+
+        item FZ31
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed31,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ32
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed32,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+	item FZ33
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed33,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ1
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed1,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ11
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed11,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ12
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed12,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ13
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed13,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ2
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed2,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ21
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed21,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ22
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed22,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item FZ23
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= FemaleZed23,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ3
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed3,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ31
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed31,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ32
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed32,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ33
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed33,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ2
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed2,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ21
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed21,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ22
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed22,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ23
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed23,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ1
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed1,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ11
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed11,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ12
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed12,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+	item MZ13
+	{
+                DisplayCategory = Clothing,
+		Type 			= Clothing,
+        	ClothingItem 		= MaleZed13,
+        	BodyLocation		= UnderwearBottom,
+                BloodLocation           = Head;Neck;Jumper;Hands;Shoes,
+        	CanHaveHoles		= false,
+                IsHelmet                = false,
+	}
+
+
+
+}

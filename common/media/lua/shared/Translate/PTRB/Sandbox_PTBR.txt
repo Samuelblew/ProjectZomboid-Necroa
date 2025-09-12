@@ -1,0 +1,10 @@
+Sandbox_PTBR = {
+	Sandbox_Susceptible = "Susceptible",
+	Sandbox_Susceptible_EveryoneIsSusceptible = "Todo mundo é Suscetível",
+	Sandbox_Susceptible_InstantDeath = "Infecção de Morte Instantanea",
+	Sandbox_Susceptible_BaseInfectionChance = "Chance Base de Infecção",
+	Sandbox_Susceptible_MaskDamageRate = "Taxa de Dano a Máscaras",
+	Sandbox_Susceptible_MaskFilteringPower = "Poder de Filtragem de Máscaras",
+	Sandbox_Susceptible_SusceptibleSpawnChance = "Chance de Surgimento de Zumbis com Máscaras",
+	Sandbox_Susceptible_SusceptibleLootChance =  "Chance de Encontrar Itens para Máscaras em Zumbis com Máscaras",
+}

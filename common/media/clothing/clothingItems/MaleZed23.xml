@@ -1,0 +1,10 @@
+<clothingItem>
+    <m_MaleModel>skinned\Clothes\MaleZed2</m_MaleModel>
+    <m_FemaleModel>skinned\Clothes\MaleZed2</m_FemaleModel>
+    <m_GUID>25573c0b-409e-4b67-9bf4-64409b2407bd</m_GUID>
+    <m_Static>false</m_Static>
+    <m_AllowRandomHue>false</m_AllowRandomHue>
+    <m_AllowRandomTint>false</m_AllowRandomTint>
+    <m_Masks>0</m_Masks>
+    <textureChoices>zombies2\malezedtest3</textureChoices>
+</clothingItem>

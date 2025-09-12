@@ -1,0 +1,12 @@
+ItemName_EN = {
+
+	ItemName_Base.ClothMask = "Cloth Face Mask",
+	ItemName_Base.GasmaskFilter = "Gas Mask Filter",
+	ItemName_Base.Oxygen_Tank = "Oxygen Tank",
+	ItemName_Susceptible.MaskBox_Blue = "Box of Medical Masks(Blue)",
+	ItemName_Susceptible.MaskBox_Green = "Box of Medical Masks(Green)",
+	ItemName_Susceptible.EmptyMaskBox_Blue = "Empty Box of Masks(Blue)",
+	ItemName_Susceptible.EmptyMaskBox_Green = "Empty Box of Masks(Green)",
+	ItemName_Susceptible.EmptyDustmaskBox = "Empty Box of Dust Masks",
+	ItemName_Susceptible.DustmaskBox = "Box of Dust Masks",
+}

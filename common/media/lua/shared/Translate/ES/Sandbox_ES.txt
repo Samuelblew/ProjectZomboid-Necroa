@@ -1,0 +1,10 @@
+Sandbox_ES = {
+	Sandbox_Susceptible = "Susceptible",
+	Sandbox_Susceptible_EveryoneIsSusceptible = "Todos son Susceptibles",
+	Sandbox_Susceptible_InstantDeath = "Infección de muerte instantánea",
+	Sandbox_Susceptible_BaseInfectionChance = "Probabilidad de infección básica",
+	Sandbox_Susceptible_MaskDamageRate = "Tasa de daño de la máscara",
+	Sandbox_Susceptible_MaskFilteringPower = "Poder de filtrado de la máscara",
+	Sandbox_Susceptible_SusceptibleSpawnChance = "Probabilidad de aparición de zombis enmascarados",
+	Sandbox_Susceptible_SusceptibleLootChance =  "Oportunidad de encontrar elementos de máscara en zombis enmascarados",
+}

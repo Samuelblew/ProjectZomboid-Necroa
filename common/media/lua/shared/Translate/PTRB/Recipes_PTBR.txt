@@ -1,0 +1,7 @@
+Recipe_PTRB = {
+	Recipe_Create_Cloth_Mask = "Criar Máscara Facial de Pano",
+	Recipe_Open_Box_of_Face_Masks = "Caixa Aberta de Máscaras Faciais",
+	Recipe_Put_Face_Masks_in_Box = "Coloque Máscaras Faciais na Caixa",
+	Recipe_Open_Box_of_Dust_Masks = "Caixa Aberta de Máscaras de Poeira",
+	Recipe_Put_Dust_Masks_in_Box = "Coloque Máscaras de Poeira na Caixa",
+}

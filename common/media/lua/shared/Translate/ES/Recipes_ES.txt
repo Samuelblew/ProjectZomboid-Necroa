@@ -1,0 +1,10 @@
+Recipes_ES = {
+
+    Recipe_Create_Cloth_Mask = "Crear Mascarilla de tela",
+	Recipe_Open_Box_of_Face_Masks = "Abrir Caja de Mascarilla médica",
+	Recipe_Put_Face_Masks_in_Box = "Colocar Mascarilla médica en caja",
+	Recipe_Open_Box_of_Face_Masks = "Abrir Caja de Mascarilla médica",
+	Recipe_Put_Face_Masks_in_Box = "Colocar Mascarilla médica en caja",
+	Recipe_Open_Box_of_Dust_Masks = "Abrir Caja de Mascarilla antipolvo",
+	Recipe_Put_Dust_Masks_in_Box = "Colocar Mascarilla antipolvo en caja",
+}

@@ -1,0 +1,12 @@
+ItemName_PTBR = {
+
+	ItemName_Base.ClothMask = "Máscara de Pano",
+	ItemName_Base.GasmaskFilter = "Filtro de Máscara de Gás",
+	ItemName_Base.Oxygen_Tank = "Tanque de Oxigênio",
+	ItemName_Susceptible.MaskBox_Blue = "Caixa de Máscaras Médicas (azul)",
+	ItemName_Susceptible.MaskBox_Green = "Caixa de Máscaras Médicas (verde)",
+	ItemName_Susceptible.EmptyMaskBox_Blue = "Caixa de Máscara Médica Vazia(Azul)",
+	ItemName_Susceptible.EmptyMaskBox_Green = "Caixa de Máscara Médica Vazia(Verde)",
+	ItemName_Susceptible.EmptyDustmaskBox = "Caixa de Máscara de Poeira Vazia",
+	ItemName_Susceptible.DustmaskBox = "Caixa de Máscaras Contra Poeira",
+}

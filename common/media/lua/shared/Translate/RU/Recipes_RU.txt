@@ -1,0 +1,7 @@
+Recipe_RU = {
+	Recipe_Create_Cloth_Mask = "Cделать маску из ткани",
+	Recipe_Open_Box_of_Face_Masks = "Открыть коробку с масками",
+	Recipe_Put_Face_Masks_in_Box = "Сложить маски в коробку",
+	Recipe_Open_Box_of_Dust_Masks = "Открыть коробку с респираторами",
+	Recipe_Put_Dust_Masks_in_Box = "Сложить респираторы в коробку",
+}

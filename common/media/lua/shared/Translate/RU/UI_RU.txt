@@ -1,0 +1,20 @@
+UI_RU = {
+
+	UI_trait_Susceptible = "Восприимчивый",
+	UI_trait_SusceptibleDesc = "Вы восприимчивы к переносимому по воздуху штамму инфекции Knox.<br>Вы должны носить маску, когда находитесь рядом с зомби, чтобы не заразиться вирусом.",
+
+	UI_Susceptible_Filter = "Фильтр",
+	UI_Susceptible_No_Filter = "Нет фильтра",
+	UI_Susceptible_Swap_Filter = "Поменять фильтр",
+	UI_Susceptible_Insert_Filter = "Вставить фильтр",
+	UI_Susceptible_Remove_Filter = "Отсоединить фильтр",
+
+	UI_Susceptible_Oxygen = "Кислородный баллон",
+	UI_Susceptible_No_Oxygen = "Нет кислородного баллона",
+	UI_Susceptible_Swap_Oxygen = "Поменять кислородный баллон",
+	UI_Susceptible_Insert_Oxygen = "Установить кислородный баллон",
+	UI_Susceptible_Remove_Oxygen = "Снять кислородный баллон",
+
+	UI_Susceptible_Repair_With = "Ремонт с использованием...",
+	UI_Susceptible_Bleach_Repair = "Очистить отбеливателем"
+}
