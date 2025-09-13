@@ -1,48 +1,49 @@
----
-
 # NecroaMod - Body Range
 
 Um mod para **Project Zomboid** que amplia a variedade estética e de animações dos zumbis, trazendo mais imersão e realismo à jogabilidade.
 
-## Estrutura do Mod
+## Compatibilidade
 
-* **Animações personalizadas**: esbarrões, quedas e tropeços para zumbis.
-* **Conjuntos de roupas**: maior diversidade visual para zumbis masculinos e femininos.
-* **Configurações Sandbox**: arquivo `sandbox-options.txt` com opções customizáveis para o jogador.
-* **XMLs organizados**: roupas e animações bem estruturadas, permitindo fácil expansão.
-* **Integração no jogo**: via `mod.info` e demais arquivos padrão de mods.
+Este mod foi desenvolvido para a versão mais recente do **Project Zomboid** e pode ser usado tanto em partidas solo quanto em servidores.
 
-## Tecnologias / Recursos Usados
+### Estrutura do Projeto
 
-* **Project Zomboid Modding API**
-* **Arquivos XML** para roupas e animações
-* **Configurações Sandbox** para customização
-* **Estrutura compatível** com Workshop/Mods locais
+- **Animações**: movimentos adicionais como esbarrões, quedas e tropeços.
+- **Roupas**: maior diversidade visual para zumbis masculinos e femininos.
+- **Sandbox Options**: arquivo `sandbox-options.txt` para customização.
+- **Arquivos XML**: definem roupas e animações de forma expansível.
+- **Integração no jogo**: via `mod.info` e demais arquivos padrão.
+
+### Tecnologias / Recursos
+
+- **Project Zomboid Modding API**
+- **XMLs de roupas e animações**
+- **Configurações Sandbox**
+- **Estrutura compatível com Workshop/Mods locais**
 
 ## Pré-requisitos
 
-* Cópia do **Project Zomboid** atualizada
-* Habilitar a aba de Mods no menu inicial
-* (Opcional) Conhecimentos básicos em edição de XML para expandir roupas/animations
+1. Cópia do [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/) atualizada.
+2. Ativar a aba de **Mods** no menu inicial do jogo.
+3. (Opcional) Conhecimento básico de XML para expandir roupas/animations.
 
 ## Instalação
 
 1. Baixe ou clone este repositório.
 2. Copie a pasta do mod para:
+   - `C:\Usuários\<SeuNome>\Zomboid\mods` (Windows)
+   - `~/Zomboid/mods` (Linux/MacOS)
+3. Ative o mod no **menu inicial** do Project Zomboid.
 
-   * `C:\Usuários\<SeuNome>\Zomboid\mods` (Windows)
-   * `~/Zomboid/mods` (Linux/MacOS)
-3. Ative o mod no **menu inicial** do jogo.
+## Executar Localmente (para testes)
 
-## Executar Localmente (para testes/edição)
+### Editar Arquivos
+- `media/animations/` → adicionar ou alterar animações.
+- `media/clothing/` → personalizar roupas.
+- `sandbox-options.txt` → configurar opções personalizadas.
 
-* Edite os arquivos XML em qualquer editor de texto.
-* Ajuste `sandbox-options.txt` para personalizar comportamento.
-* Teste no modo Sandbox do Project Zomboid.
-
-## Estrutura de Arquivos
-
-```
+### Estrutura de Arquivos
+```bash
 NecroaMod/
 │── media/
 │   ├── animations/
@@ -50,10 +51,3 @@ NecroaMod/
 │   └── sandbox-options.txt
 │── mod.info
 └── poster.png
-```
-
-## Licença
-
-Este mod é distribuído gratuitamente para uso não comercial.
-
----
