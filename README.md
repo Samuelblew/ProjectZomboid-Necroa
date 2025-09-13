@@ -1,15 +1,59 @@
-Descrição do Mod - Body Range
+---
 
-Este mod parece alterar a forma como os zumbis aparecem e se comportam no Project Zomboid. 
-Ele inclui arquivos de animação, roupas e configurações de sandbox que permitem maior variedade 
-visual e comportamental nos mortos-vivos.
+# NecroaMod - Body Range
 
-Principais características observadas:
-- Animações personalizadas de zumbis (como esbarrões, quedas e tropeços).
-- Diversos conjuntos de roupas para zumbis masculinos e femininos, aumentando a diversidade visual.
-- Arquivo de configuração sandbox-options.txt, que sugere opções customizáveis para o jogador.
-- Estrutura organizada com XMLs de roupas e animações, o que indica que o mod é expansível.
-- Arquivo mod.info, que contém informações gerais do mod para integração no jogo.
+Um mod para **Project Zomboid** que amplia a variedade estética e de animações dos zumbis, trazendo mais imersão e realismo à jogabilidade.
 
-Em resumo, o NecroaMod é um mod focado em ampliar a variedade estética e de animações dos zumbis,
-trazendo mais imersão e realismo para a experiência do jogador.
+## Estrutura do Mod
+
+* **Animações personalizadas**: esbarrões, quedas e tropeços para zumbis.
+* **Conjuntos de roupas**: maior diversidade visual para zumbis masculinos e femininos.
+* **Configurações Sandbox**: arquivo `sandbox-options.txt` com opções customizáveis para o jogador.
+* **XMLs organizados**: roupas e animações bem estruturadas, permitindo fácil expansão.
+* **Integração no jogo**: via `mod.info` e demais arquivos padrão de mods.
+
+## Tecnologias / Recursos Usados
+
+* **Project Zomboid Modding API**
+* **Arquivos XML** para roupas e animações
+* **Configurações Sandbox** para customização
+* **Estrutura compatível** com Workshop/Mods locais
+
+## Pré-requisitos
+
+* Cópia do **Project Zomboid** atualizada
+* Habilitar a aba de Mods no menu inicial
+* (Opcional) Conhecimentos básicos em edição de XML para expandir roupas/animations
+
+## Instalação
+
+1. Baixe ou clone este repositório.
+2. Copie a pasta do mod para:
+
+   * `C:\Usuários\<SeuNome>\Zomboid\mods` (Windows)
+   * `~/Zomboid/mods` (Linux/MacOS)
+3. Ative o mod no **menu inicial** do jogo.
+
+## Executar Localmente (para testes/edição)
+
+* Edite os arquivos XML em qualquer editor de texto.
+* Ajuste `sandbox-options.txt` para personalizar comportamento.
+* Teste no modo Sandbox do Project Zomboid.
+
+## Estrutura de Arquivos
+
+```
+NecroaMod/
+│── media/
+│   ├── animations/
+│   ├── clothing/
+│   └── sandbox-options.txt
+│── mod.info
+└── poster.png
+```
+
+## Licença
+
+Este mod é distribuído gratuitamente para uso não comercial.
+
+---
