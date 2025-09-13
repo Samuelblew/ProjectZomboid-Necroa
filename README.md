@@ -1,4 +1,4 @@
-# NecroaMod - Body Range
+# NecroaMod 
 
 Um mod para **Project Zomboid** que amplia a variedade estética e de animações dos zumbis, trazendo mais imersão e realismo à jogabilidade.
 
